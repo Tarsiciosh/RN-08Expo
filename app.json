@@ -1,0 +1,12 @@
+{
+  "name": "08Expo",
+  "displayName": "08Expo",
+  "expo": {
+    "name": "08Expo",
+    "slug": "08Expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
